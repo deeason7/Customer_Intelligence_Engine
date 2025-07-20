@@ -1,0 +1,17 @@
+# Python virtual environment
+venv/
+
+# Ignore the data folder
+data/
+
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and OS specific
+.vscode/
+.idea/
+.DS_Store
+.ipynb_checkpoints/
