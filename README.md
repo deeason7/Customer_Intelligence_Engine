@@ -1,5 +1,4 @@
-# Customer-Intelligence-Engine
-# E-Commerce Customer Intelligence Engine
+# E-Commerce Customer Intelligence & Churn Prediction Engine
 
 ## Project Overview
 
